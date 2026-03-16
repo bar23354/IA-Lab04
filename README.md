@@ -3,5 +3,5 @@
 Universidad del Valle de Guatemala
 Inteligencia Artificial - Laboratorio 04
 Javier España
-Ángel Esquit
+Angel Esquit
 Roberto Barreda
